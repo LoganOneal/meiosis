@@ -9,9 +9,9 @@ url: "https://loganoneal.github.io/meiosis/" # the base hostname & protocol for 
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook: Logan O'Neal
+twitter: loganofneal
+github:  loganoneal
 
 #Additional Pages
 about: about
@@ -43,8 +43,8 @@ repo: meiosis #github repository
 branch: master #branch
 relative_source: ../meiosis/ #source directory
 destination: ../meiosis-pages/ #destination directory
-production_url: https://loganoneal.github.io/meiosis/
-source_url:  https://github.com/LoganOneal/meiosis #source repository url
+production_url: https://meiosis.loganoneal.com/
+source_url:  https://meiosis.loganoneal.com/ #source repository url
 
 exclude:
   - README.md
