@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/lifecycle.jpg'
+cover: 'assets/images/spermbanner.jpg'
 title: Human Life Cycle
 date: 2018-1-12 04:00:00
 tags: meiosis

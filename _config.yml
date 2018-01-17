@@ -1,7 +1,7 @@
 # Site settings
 title: Meiosis
 description: Meiosis is a type of cell division which reduces the chromosome number of the parent cell by half to form four haploid gametes
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/banner1.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root

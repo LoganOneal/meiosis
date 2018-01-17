@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/meiosisevents.jpg'
+cover: 'assets/images/steps.jpg'
 title: Events During Meiosis
 date: 2018-1-12 04:00:00
 tags: meiosis
